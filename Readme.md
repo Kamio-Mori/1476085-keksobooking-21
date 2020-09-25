@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анастасия Прозорова](https://up.htmlacademy.ru/javascript/21/user/1476085).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Усиков](https://htmlacademy.ru/profile/id939693).
 
 ---
 
